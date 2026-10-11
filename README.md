@@ -113,7 +113,3 @@ Note: the program recreates the Elasticsearch indices each time it starts.
 ## Team
 
 Group project by **Bahar Jahani**, **Rozhin Nobahari** and **Amirhossein Bahrami**, Database Systems course, Sharif University of Technology, Fall 2018.
-
-## Notes
-
-This is course code, kept close to the original submission. Before publishing it, I moved database credentials into environment variables and replaced the original `eval`-based command dispatch with a fixed list of allowed commands. A production version would also use parameterized SQL queries and hashed passwords.
