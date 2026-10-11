@@ -1,0 +1,3 @@
+mysql-connector-python>=8.0
+# The code uses Elasticsearch document types (doc_type), so it targets Elasticsearch 6.x
+elasticsearch>=6.0,<7.0
